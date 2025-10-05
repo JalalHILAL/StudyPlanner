@@ -18,13 +18,8 @@ Persistent Data: Local storage or optional backend sync for saving progress.
 
 🧩 Tech Stack
 
-Frontend: React + Tailwind CSS
-
-State Management: Context API / Redux
-
-Backend (optional): Node.js + Express
-
-Database (optional): Firebase / MongoDB
+Built using HTML, CSS, and vanilla JavaScript, following clean code practices and modular design principles.
+Version-controlled with Git and hosted on GitHub Pages for live deployment.
 
 🚀 Installation
 git clone https://github.com/JalalHILAL/StudyPlanner.git
