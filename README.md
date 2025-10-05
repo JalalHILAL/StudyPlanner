@@ -21,16 +21,13 @@ Persistent Data: Local storage or optional backend sync for saving progress.
 Built using HTML, CSS, and vanilla JavaScript, following clean code practices and modular design principles.
 Version-controlled with Git and hosted on GitHub Pages for live deployment.
 
-🚀 Installation
-git clone https://github.com/JalalHILAL/StudyPlanner.git
-cd StudyPlanner
-npm install
-npm run dev
+🚀 Live Demo
+🔗 [View on GitHub Pages](https://jalalhilal.github.io/StudyPlanner/) 
 
 🎯 Project Goals
 
 Build a scalable, component-based UI inspired by Notion.
 
-Apply responsive design principles and modern styling with Tailwind CSS.
+Apply responsive design principles and modern styling with  CSS.
 
 Demonstrate front-end architecture, state management, and UX design skills.
